@@ -1,1 +1,3 @@
 this is just a text file 
+adding new line to tyhe file2.txt on devbranch
+
